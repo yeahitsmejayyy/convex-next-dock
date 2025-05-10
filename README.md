@@ -124,12 +124,6 @@ docker-compose down -v
 
 ---
 
-## 📋 License
-
-MIT or your preferred license.
-
----
-
 ## ✨ Author
 
 PJ Bell – [@yeahitsmejayyy](https://github.com/yeahitsmejayyy)
