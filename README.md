@@ -43,7 +43,7 @@ convex-next-dock/
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/convex-next-dock.git
+git clone https://github.com/yeahitsmejayyy/convex-next-dock.git
 cd convex-next-dock
 ```
 
