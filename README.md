@@ -1,3 +1,5 @@
+![alt text](cover.png)
+
 # Convex + Next.js Docker Template
 
 This template allows you to **self-host Convex** with a **Next.js frontend** using Docker — giving you a fully offline-ready, local development environment for modern full-stack apps.
